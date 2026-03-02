@@ -1,0 +1,7 @@
+Build Docker Image
+
+Inside the project directory:
+
+docker build -t my-web-server .
+
+If Docker is installed properly, you’ll see build success.
